@@ -1,3 +1,6 @@
 # MiniMaxAlgorithm
 
-MiniMaxAlgorithm code using c#
+MiniMaxAlgorithm code
+ ## Tools
+ * c#
+ * Unity 3d
